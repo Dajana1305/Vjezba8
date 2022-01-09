@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Vježba 8</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="Dajana Kovačević">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    </head>
+
+    <body>
+        <footer>
+            <p>Copyright &copy; Dajana Kovačević. <a href="https://github.com/Dajana1305"> <img width="200" src="https://www.bing.com/images/search?view=detailV2&ccid=GHPQTvkT&id=E2F1E7BA52E4FB65CEC461D97190F17E3F19F730&thid=OIP.GHPQTvkT3TqCadzvWvCZFgHaGs&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1873d04ef913dd3a8269dcef5af09916%3frik%3dMPcZP37xkHHZYQ%26riu%3dhttp%253a%252f%252fpngimg.com%252fuploads%252fgithub%252fgithub_PNG20.png%26ehk%3derTZufioxFZ3FWvitC7ljHIHQyUoiEj1kvH6U4KKpfU%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1156&expw=1280&q=github+logo&simid=608053166119537754&FORM=IRPRST&ck=22D23701F5DBA9C3E4D0CC52DCCDF245&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0"
+            alt="Github slika"> </a> &amp; Web aplikacije. All rights reserved. </p>
+        </footer>
+    </body>
